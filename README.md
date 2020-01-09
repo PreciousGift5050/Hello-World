@@ -2,14 +2,11 @@
 
 ## Catching Time
 
->
+> ```
+> $ give me super-powers
+> ```
 
-{% code title="" %}
-```
-$ give me super-powers
 
-```
-{% endcode %}
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
